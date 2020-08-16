@@ -1,0 +1,62 @@
+# MyFirstPyGame
+My first python game, which is ping-pong
+
+I ceated this mini ping-pong game, using a pygame library, after watching Gosha Dudar's video on Youtube.
+
+Read this only if you aren't afraid of truth:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you are so cute today! <3 Hope you're doing great
